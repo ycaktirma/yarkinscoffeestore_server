@@ -1,33 +1,6 @@
 {
     "users": [
-      {
-        "id": 1,
-        "username": "ycaktirma",
-        "name": "Yarkın",
-        "email": "ycaktirma@gmail.com",
-        "password": "123qwe"
-      },
-      {
-        "username": "yarkin2",
-        "password": "123qwe",
-        "name": "Jonatjon",
-        "email": "dsad@gmail.com",
-        "id": 3
-      },
-      {
-        "username": "ycaktirma",
-        "password": "yarkin123",
-        "name": "Yarkın",
-        "email": "ycaktirma@gmail.com",
-        "id": 4
-      },
-      {
-        "username": "elonmusk",
-        "password": "elon123",
-        "name": "Elon Musk",
-        "email": "musk@tesla.com",
-        "id": 5
-      }
+
     ],
     "products": [
       {
@@ -84,26 +57,9 @@
 
     ],
     "shoppingCart": [
-      {
-        "id": 1,
-        "user_id": 1,
-        "cart": [
-          {
-            "product_id": 3,
-            "count": 2
-          },
-          {
-            "product_id": 2,
-            "count": 4
-          }
-        ]
-      }
+
     ],
     "logs": [
-      {
-        "message": "User <1> purchased some coffees.",
-        "createdDate": "2022-03-20T19:46:50.314Z",
-        "id": 1
-      }
+
     ]
   }
