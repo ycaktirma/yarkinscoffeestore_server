@@ -47,7 +47,7 @@
         "id": 4,
         "name": "Cold brew",
         "shortDescription": "Standart cold brew",
-        "description": "Demo ürün 1",
+        "description": "Our Cold Brew coffee is handcrafted in small batches, slow-steeped in cool water without touching heat, to give a super smooth flavour.",
         "price": "3.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 1
@@ -56,7 +56,7 @@
         "id": 5,
         "name": "Latte",
         "shortDescription": "Standart latte",
-        "description": "Demo ürün 1",
+        "description": "Our dark, rich espresso is balanced with steamed milk and topped with a light layer of foam. A perfect milk-forward warm up.",
         "price": "5.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 1
@@ -82,8 +82,8 @@
       {
         "id": 8,
         "name": "Espresso Shot",
-        "shortDescription": "Standart cold brew",
-        "description": "Espresso shot",
+        "shortDescription": "Energy!",
+        "description": "A shot of espresso with a rich flavour and caramel-like sweetness.",
         "price": "4.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 2
@@ -92,7 +92,7 @@
         "id": 9,
         "name": "White 🍫 Mocha",
         "shortDescription": "Sweet!",
-        "description": "White Chocolate",
+        "description": "Espresso with white chocolate flavoured sauce and steamed milk, topped with whipped cream.",
         "price": "6.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 3
@@ -101,7 +101,7 @@
         "id": 10,
         "name": "Caramel Macchiato",
         "shortDescription": "Delicious!",
-        "description": "Caramel macchiato for caramel lovers",
+        "description": "Freshly steamed milk with vanilla-flavoured syrup, marked with espresso and finished with caramel sauce.",
         "price": "6.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 3
@@ -119,7 +119,7 @@
         "id": 13,
         "name": "Mocha",
         "shortDescription": "Tasteful!",
-        "description": "Caramel macchiato with extra cream",
+        "description": "Espresso with bittersweet mocha sauce and steamed milk. Topped with whipped cream",
         "price": "6.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 3
@@ -137,7 +137,7 @@
         "id": 15,
         "name": "Cappuccino",
         "shortDescription": "Amazing!",
-        "description": "Standart cappuccino",
+        "description": "Dark, rich espresso combined with steamed milk, topped with a deep layer of foam.",
         "price": "6.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 4
@@ -155,7 +155,7 @@
         "id": 17,
         "name": "Iced Blonde Latte",
         "shortDescription": "A seriously smooth sip.",
-        "description": "Extra-smooth and subtly sweet Espresso balanced with milk and ice creates an ideal cup for those who prefer a lighter-roasted coffee.",
+        "description": "Iced Blonde Latte. Our extra-smooth and subtly sweet Starbucks Blonde® Espresso balanced with milk and ice creates an ideal cup for those who prefer a lighter-roasted coffee. A seriously smooth sip.",
         "price": "6.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 4
@@ -164,7 +164,7 @@
         "id": 18,
         "name": "Salted Caramel Latte",
         "shortDescription": "Unusual!",
-        "description": "Salted Caramel Latte",
+        "description": "Tasteful Latte with caramel and salt",
         "price": "6.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 4
@@ -189,7 +189,7 @@
       },
       {
         "id": 21,
-        "name": "Banana,Raspberry&Blueberry",
+        "name": "Banana,Raspberry",
         "shortDescription": "Wonderful!",
         "description": "Blend of pasteurised apple and blackcurrant juices with banana, raspberry, pear and blueberry purees.",
         "price": "6.99",
