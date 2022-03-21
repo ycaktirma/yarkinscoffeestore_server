@@ -8,7 +8,7 @@
         "name": "Americano",
         "shortDescription": "Standart americano",
         "description": "Standart americano for black coffe lovers.",
-        "price": "23.99",
+        "price": "4.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 1
       },
@@ -17,18 +17,189 @@
         "name": "Espresso",
         "shortDescription": "Standart espresso",
         "description": "Standart espresso for black coffe lovers.",
-        "price": "23.99",
+        "price": "2.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 1
       },
       {
         "id": 3,
-        "name": "Demo ürün 1",
-        "shortDescription": "Demo ürün 1",
+        "name": "Filter coffee",
+        "shortDescription": "Standart coffee",
         "description": "Demo ürün 1",
-        "price": "23.99",
+        "price": "3.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 1
+      },
+      {
+        "id": 4,
+        "name": "Cold brew",
+        "shortDescription": "Standart cold brew",
+        "description": "Demo ürün 1",
+        "price": "3.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 1
+      },
+      {
+        "id": 5,
+        "name": "Latte",
+        "shortDescription": "Standart latte",
+        "description": "Demo ürün 1",
+        "price": "5.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 1
+      },
+      {
+        "id": 6,
+        "name": "Turkish Coffee",
+        "shortDescription": "Delicious",
+        "description": "Standart delicious Turkish coffee",
+        "price": "5.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 1
+      },
+      {
+        "id": 7,
+        "name": "Americano bomb",
+        "shortDescription": "For your caffeine needs",
+        "description": "Americano with extra espresso shot in it.",
+        "price": "4.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 2
+      },
+      {
+        "id": 8,
+        "name": "Espresso Shot",
+        "shortDescription": "Standart cold brew",
+        "description": "Espresso shot",
+        "price": "4.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 2
+      },
+      {
+        "id": 9,
+        "name": "White Chocolate Mocha",
+        "shortDescription": "Sweet!",
+        "description": "White Chocolate",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 3
+      },
+      {
+        "id": 10,
+        "name": "Caramel Macchiato",
+        "shortDescription": "Delicious!",
+        "description": "Caramel macchiato for caramel lovers",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 3
+      },
+      {
+        "id": 11,
+        "name": "Berry Hibiscus",
+        "shortDescription": "Delicious!",
+        "description": "Cold drink with blackberries",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 3
+      },
+      {
+        "id": 12,
+        "name": "Caramel Cloud Macchiato",
+        "shortDescription": "Extra sweet!",
+        "description": "Caramel macchiato with extra cream",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 3
+      },
+      {
+        "id": 13,
+        "name": "Mocha",
+        "shortDescription": "Tasteful!",
+        "description": "Caramel macchiato with extra cream",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 3
+      },
+      {
+        "id": 14,
+        "name": "Red Velvet",
+        "shortDescription": "Amazing!",
+        "description": "Red velvet cupcake becomes a delicious drink!",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 3
+      },
+      {
+        "id": 15,
+        "name": "Cappuccino",
+        "shortDescription": "Amazing!",
+        "description": "Standart cappuccino",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 4
+      },
+      {
+        "id": 16,
+        "name": "Iced Toffee Nut Latte",
+        "shortDescription": "Toffee Nut syrup and milk.",
+        "description": "Served with ice, topped with whipped cream and delicious Toffee Nut sprinkles.",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 4
+      },
+      {
+        "id": 17,
+        "name": "Iced Blonde Latte",
+        "shortDescription": "A seriously smooth sip.",
+        "description": "Extra-smooth and subtly sweet Espresso balanced with milk and ice creates an ideal cup for those who prefer a lighter-roasted coffee.",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 4
+      },
+      {
+        "id": 18,
+        "name": "Salted Caramel Latte",
+        "shortDescription": "Unusual!",
+        "description": "Salted Caramel Latte",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 4
+      },
+      {
+        "id": 19,
+        "name": "Hot Chocolate",
+        "shortDescription": "Mmmm!",
+        "description": "Steamed milk swirled with mocha-flavoured syrup. Topped with whipped cream.",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 3
+      },
+      {
+        "id": 20,
+        "name": "Mango & Passionfruit Smoothie",
+        "shortDescription": "Amazing!",
+        "description": "A blend of pasteurized apple and passion fruit juices with mango and banana purees and orange bits",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 5
+      },
+      {
+        "id": 21,
+        "name": "Banana, Raspberry & Blueberry Smoothie",
+        "shortDescription": "Wonderful!",
+        "description": "Blend of pasteurised apple and blackcurrant juices with banana, raspberry, pear and blueberry purees.",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 5
+      },
+      {
+        "id": 22,
+        "name": "Kiwi, Pineapple & Lime Smoothie",
+        "shortDescription": "Wonderful!",
+        "description": "A blend of pasteurized apple, grape, pineapple and lime juices with kiwi and banana purées.",
+        "price": "6.99",
+        "image": "assets/images/coffeemockup2.png",
+        "category": 5
       }
     ],
     "productCategories": [
@@ -50,7 +221,7 @@
       },
       {
         "id": 5,
-        "category": "Smoothie"
+        "category": "Smoothies"
       }
     ],
     "productComments": [
