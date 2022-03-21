@@ -38,7 +38,7 @@
         "id": 3,
         "name": "Filter coffee",
         "shortDescription": "Standart coffee",
-        "description": "Demo ürün 1",
+        "description": "Coffee that's smooth, balanced and rich in flavour – perfect for every day.",
         "price": "3.99",
         "image": "assets/images/coffeemockup2.png",
         "category": 1
@@ -116,15 +116,6 @@
         "category": 3
       },
       {
-        "id": 12,
-        "name": "Caramel Cloud Macchiato",
-        "shortDescription": "Extra sweet!",
-        "description": "Caramel macchiato with extra cream",
-        "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
-        "category": 3
-      },
-      {
         "id": 13,
         "name": "Mocha",
         "shortDescription": "Tasteful!",
@@ -189,7 +180,7 @@
       },
       {
         "id": 20,
-        "name": "Mango & Passionfruit Smoothie",
+        "name": "Mango&Passionfruit",
         "shortDescription": "Amazing!",
         "description": "A blend of pasteurized apple and passion fruit juices with mango and banana purees and orange bits",
         "price": "6.99",
@@ -198,7 +189,7 @@
       },
       {
         "id": 21,
-        "name": "Banana, Raspberry & Blueberry Smoothie",
+        "name": "Banana,Raspberry&Blueberry",
         "shortDescription": "Wonderful!",
         "description": "Blend of pasteurised apple and blackcurrant juices with banana, raspberry, pear and blueberry purees.",
         "price": "6.99",
@@ -207,7 +198,7 @@
       },
       {
         "id": 22,
-        "name": "Kiwi, Pineapple & Lime Smoothie",
+        "name": "Kiwi,Pineapple&Lime",
         "shortDescription": "Wonderful!",
         "description": "A blend of pasteurized apple, grape, pineapple and lime juices with kiwi and banana purées.",
         "price": "6.99",
@@ -241,6 +232,16 @@
 
     ],
     "shoppingCart": [
+        {
+            "id":1,
+            "user_id":1,
+            "cart":[]
+        },
+        {
+            "id":2,
+            "user_id":2,
+            "cart":[]
+        }
 
     ],
     "logs": [
