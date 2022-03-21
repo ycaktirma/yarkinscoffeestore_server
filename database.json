@@ -1,6 +1,19 @@
 {
     "users": [
-
+        {
+            "username": "emrhn1888",
+            "password": "12345678",
+            "name": "Emirhan",
+            "email": "ay_emirhan@hotmail.com",
+            "id": 1
+          },
+          {
+            "username": "ycaktirma",
+            "password": "123qwe",
+            "name": "Yarkın",
+            "email": "ycaktirma@gmail.com",
+            "id": 2
+          }
     ],
     "products": [
       {
@@ -77,7 +90,7 @@
       },
       {
         "id": 9,
-        "name": "White Chocolate Mocha",
+        "name": "White 🍫 Mocha",
         "shortDescription": "Sweet!",
         "description": "White Chocolate",
         "price": "6.99",
