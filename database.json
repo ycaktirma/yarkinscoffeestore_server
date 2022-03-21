@@ -22,7 +22,7 @@
         "shortDescription": "Standart americano",
         "description": "Standart americano for black coffe lovers.",
         "price": "4.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/americano.png",
         "category": 1
       },
       {
@@ -31,7 +31,7 @@
         "shortDescription": "Standart espresso",
         "description": "Standart espresso for black coffe lovers.",
         "price": "2.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/espresso.png",
         "category": 1
       },
       {
@@ -40,16 +40,16 @@
         "shortDescription": "Standart coffee",
         "description": "Coffee that's smooth, balanced and rich in flavour – perfect for every day.",
         "price": "3.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/filtercoffee.png",
         "category": 1
       },
       {
         "id": 4,
-        "name": "Cold brew",
+        "name": "Cold Brew",
         "shortDescription": "Standart cold brew",
         "description": "Our Cold Brew coffee is handcrafted in small batches, slow-steeped in cool water without touching heat, to give a super smooth flavour.",
         "price": "3.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/coldbrew.png",
         "category": 1
       },
       {
@@ -58,7 +58,7 @@
         "shortDescription": "Standart latte",
         "description": "Our dark, rich espresso is balanced with steamed milk and topped with a light layer of foam. A perfect milk-forward warm up.",
         "price": "5.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/latte.png",
         "category": 1
       },
       {
@@ -67,7 +67,7 @@
         "shortDescription": "Delicious",
         "description": "Standart delicious Turkish coffee",
         "price": "5.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/turkishcoffee.png",
         "category": 1
       },
       {
@@ -76,7 +76,7 @@
         "shortDescription": "For your caffeine needs",
         "description": "Americano with extra espresso shot in it.",
         "price": "4.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/americnaobomb.png",
         "category": 2
       },
       {
@@ -85,7 +85,7 @@
         "shortDescription": "Energy!",
         "description": "A shot of espresso with a rich flavour and caramel-like sweetness.",
         "price": "4.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/espressoshot.png",
         "category": 2
       },
       {
@@ -94,7 +94,7 @@
         "shortDescription": "Sweet!",
         "description": "Espresso with white chocolate flavoured sauce and steamed milk, topped with whipped cream.",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/whitechocolatemocha.png",
         "category": 3
       },
       {
@@ -103,7 +103,7 @@
         "shortDescription": "Delicious!",
         "description": "Freshly steamed milk with vanilla-flavoured syrup, marked with espresso and finished with caramel sauce.",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/caramelmacchiato.png",
         "category": 3
       },
       {
@@ -112,7 +112,7 @@
         "shortDescription": "Delicious!",
         "description": "Cold drink with blackberries",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/berryhibiscus.png",
         "category": 3
       },
       {
@@ -121,7 +121,7 @@
         "shortDescription": "Tasteful!",
         "description": "Espresso with bittersweet mocha sauce and steamed milk. Topped with whipped cream",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/mocha.png",
         "category": 3
       },
       {
@@ -130,7 +130,7 @@
         "shortDescription": "Amazing!",
         "description": "Red velvet cupcake becomes a delicious drink!",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/redvelvet.png",
         "category": 3
       },
       {
@@ -139,16 +139,16 @@
         "shortDescription": "Amazing!",
         "description": "Dark, rich espresso combined with steamed milk, topped with a deep layer of foam.",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/cappuccino.png",
         "category": 4
       },
       {
         "id": 16,
-        "name": "Iced Toffee Nut Latte",
+        "name": "Toffee Nut Latte",
         "shortDescription": "Toffee Nut syrup and milk.",
         "description": "Served with ice, topped with whipped cream and delicious Toffee Nut sprinkles.",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/toffeenutlatte.png",
         "category": 4
       },
       {
@@ -157,7 +157,7 @@
         "shortDescription": "A seriously smooth sip.",
         "description": "Iced Blonde Latte. Our extra-smooth and subtly sweet Starbucks Blonde® Espresso balanced with milk and ice creates an ideal cup for those who prefer a lighter-roasted coffee. A seriously smooth sip.",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/icedblondelatte.png",
         "category": 4
       },
       {
@@ -166,7 +166,7 @@
         "shortDescription": "Unusual!",
         "description": "Tasteful Latte with caramel and salt",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/saltedcaramellatte.png",
         "category": 4
       },
       {
@@ -175,7 +175,7 @@
         "shortDescription": "Mmmm!",
         "description": "Steamed milk swirled with mocha-flavoured syrup. Topped with whipped cream.",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/hotchocolate.png",
         "category": 3
       },
       {
@@ -184,7 +184,7 @@
         "shortDescription": "Amazing!",
         "description": "A blend of pasteurized apple and passion fruit juices with mango and banana purees and orange bits",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/mangopassionfruit.png",
         "category": 5
       },
       {
@@ -193,7 +193,7 @@
         "shortDescription": "Wonderful!",
         "description": "Blend of pasteurised apple and blackcurrant juices with banana, raspberry, pear and blueberry purees.",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/bananaraspberry.png",
         "category": 5
       },
       {
@@ -202,7 +202,7 @@
         "shortDescription": "Wonderful!",
         "description": "A blend of pasteurized apple, grape, pineapple and lime juices with kiwi and banana purées.",
         "price": "6.99",
-        "image": "assets/images/coffeemockup2.png",
+        "image": "assets/images/kiwipineapplelime.png",
         "category": 5
       }
     ],
